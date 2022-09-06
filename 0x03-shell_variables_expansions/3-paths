@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr ":" "\n" | wc -l
+printf "%02.2f\n" $NUM
